@@ -1,6 +1,6 @@
 # Agenda de Palestras
 
-Esse codigo tem como objetivo automatizar a organizacaoo dos horarios de uma conferencia de acordo com uma lista de palestras previamente recebidas.
+Esse codigo tem como objetivo automatizar a organização dos horarios de uma conferencia de acordo com uma lista de palestras previamente recebidas.
 O codigo utiliza um arquivo de entrada, input.txt, localizado na pasta Data, e depois de compilado e executado, gera um arquivo output.txt na mesma pasta Data.
 O codigo nao possui nenhuma interface ou interacao com usuario.
 Ha espaco para melhorias, podendo ser implementado a alteracao dos horarios das sessoes por um usuario, por exemplo.
