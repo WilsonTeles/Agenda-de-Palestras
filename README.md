@@ -1,11 +1,15 @@
 # Agenda de Palestras
 
-Esse codigo tem como objetivo automatizar a organização dos horarios de uma conferencia de acordo com uma lista de palestras previamente recebidas.
-O codigo utiliza um arquivo de entrada, input.txt, localizado na pasta Data, e depois de compilado e executado, gera um arquivo output.txt na mesma pasta Data.
-O codigo nao possui nenhuma interface ou interacao com usuario.
-Ha espaco para melhorias, podendo ser implementado a alteracao dos horarios das sessoes por um usuario, por exemplo.
+Esse código tem como objetivo automatizar a organização dos horários de uma conferência de acordo com uma lista de palestras previamente recebidas.
+O código utiliza um arquivo de entrada, input.txt, localizado na pasta Data, e depois de compilado e executado, gera um arquivo output.txt na mesma pasta Data.
+O código não possui nenhuma interface ou interação com usuário.
+Há espaço para melhorias, podendo ser implementado a alteração dos horários das sessões por um usuário, por exemplo.
 
-Para melhor entendimento do objetivo do codigo, segue descricao, em ingles, do problema.
+Para execução do código:
+? Compilar os códigos da pasta src/main através do comando javac *.java.
+? Executar os códigos compilados a partir da pasta src, utilizando o comando java main.main.
+
+Para melhor entendimento do objetivo do código, segue descrição, em inglês, do problema.
 
 You are planning a big programming conference and have received many proposals which
 have passed the initial screen process but you're having trouble fitting them into the time
@@ -46,8 +50,7 @@ Ruby on Rails Legacy App Maintenance 60min
 A World Without HackerNews 30min
 User Interface CSS in Rails Apps 30min
 
-Test output
-:
+Test output:
 Track 1 :
 09:00AM Writing Fast Tests Against Enterprise Rails 60min
 10:00AM Overdoing it in Python 45min
@@ -73,5 +76,7 @@ Track 2 :
 02:30PM A World Without HackerNews 30min
 03:00PM Ruby on Rails Legacy App Maintenance 60min
 04:00PM Rails for Python Developers lightning
+
+
 
 
