@@ -9,9 +9,15 @@ Há espaço para melhorias, podendo ser implementado a alteração dos horários das 
 
 Para execução do código:
 
-   Compilar os códigos da pasta src/main através do comando javac *.java.
+Possuir o JDK (Java Development Kit) instalado no computador.
 
-   Executar os códigos compilados a partir da pasta src, utilizando o comando java main.main.
+Baixar a pasta src e colocá-la em um diretório no computador.
+
+Acessar a pasta via Prompt de Comando.
+
+Compilar os códigos da pasta src/main através do comando javac *.java.
+
+Executar os códigos compilados a partir da pasta src, utilizando o comando java main.main.
 
 Para melhor entendimento do objetivo do código, segue descrição, em inglês, do problema.
 
