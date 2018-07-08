@@ -1,12 +1,16 @@
 # Agenda de Palestras
 
 Esse código tem como objetivo automatizar a organização dos horários de uma conferência de acordo com uma lista de palestras previamente recebidas.
+
 O código utiliza um arquivo de entrada, input.txt, localizado na pasta Data, e depois de compilado e executado, gera um arquivo output.txt na mesma pasta Data.
+
 O código não possui nenhuma interface ou interação com usuário.
 Há espaço para melhorias, podendo ser implementado a alteração dos horários das sessões por um usuário, por exemplo.
 
 Para execução do código:
+
    Compilar os códigos da pasta src/main através do comando javac *.java.
+
    Executar os códigos compilados a partir da pasta src, utilizando o comando java main.main.
 
 Para melhor entendimento do objetivo do código, segue descrição, em inglês, do problema.
@@ -15,14 +19,22 @@ You are planning a big programming conference and have received many proposals w
 have passed the initial screen process but you're having trouble fitting them into the time
 constraints of the day -- there are so many possibilities! So you write a program to do it for
 you.
+
  The conference has multiple tracks each of which has a morning and afternoon
 session.
+
  Each session contains multiple talks.
+
  Morning sessions begin at 9am and must finish by 12 noon, for lunch.
+
  Afternoon sessions begin at 1pm and must finish in time for the networking event.
+
  The networking event can start no earlier than 4:00 and no later than 5:00.
+
  No talk title has numbers in it.
+
  All talk lengths are either in minutes (not hours) or lightning (5 minutes).
+
  Presenters will be very punctual; there needs to be no gap between sessions.
 
 Note that depending on how you choose to complete this problem, your solution may give a
